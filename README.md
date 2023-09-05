@@ -6,7 +6,7 @@
   
   <br />  
   
-  ![header](https://github.com/Khaoz-Topsy/ThankYourSupporters/.github/blob/main/img/banner.png?raw=true) 
+  ![header](https://github.com/Khaoz-Topsy/ThankYourSupporters/blob/main/.github/img/banner.png?raw=true) 
   
   <br />
   
