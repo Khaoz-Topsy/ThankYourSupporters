@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.drawer {
+    z-index: 10;
+}
+
+.supporter-tile {
+    width: calc(100% / var(--num-col));
+    text-align: var(--content-text-align);
+
+    .card {
+        height: 100%;
+        background-color: var(--tier-background, #00000080);
+        color: var(--tier-frontground, #fefefe);
+
+        .card-body {
+            .supporter-tier {
+                display: var(--tier-display);
+            }
+        }
+    }
+
+    .supporter-content {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.dropdown-content {
+    background-color: var(--tier-background, #15191e);
+}
