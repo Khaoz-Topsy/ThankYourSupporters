@@ -1,6 +1,6 @@
 {
   "name": "vite-template-solid",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "scripts": {
     "start": "vite",
@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@solidjs/router": "^0.8.3",
+    "animated-scroll-to": "^2.3.0",
     "solid-js": "^1.7.6"
   },
   "devDependencies": {

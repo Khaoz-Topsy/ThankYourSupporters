@@ -31,3 +31,10 @@
 .dropdown-content {
     background-color: var(--tier-background, #15191e);
 }
+
+html,
+body {
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
